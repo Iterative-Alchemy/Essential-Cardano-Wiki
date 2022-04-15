@@ -1,8 +1,8 @@
 # Cardano 360 Wiki
 
-> This project intends to produce and upload the Cardano 360 transcripts into an application that will semantically index the names, topics, documents, and links with the aim of making them available to mind map, graph view, and assorted other analysis and filtering selectable by the user. 
+> This project intends to produce and upload the Cardano 360 transcripts into an application that will semantically index the names, topics, documents, and links with the aim of making them available to mind map, graph view, and assorted other analysis and filtering tools selectable by the user. 
 
-This package is intended to be an open-source and integrated part of the Essential Cardano website some time after that project goes live.
+This package is an open-source application intended to be an integral part the upcoming Essential Cardano website.
 
 Toolstack includes:
 
