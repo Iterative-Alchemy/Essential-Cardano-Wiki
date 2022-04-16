@@ -1,3 +1,3 @@
-> # Cardano 360 Wiki Roadmap
+> # Essential Cardano Wiki Roadmap
 
-- [ ] Begin recording, processing, and ingesting Cardano 360 transcripts.
+- [ ] Acquire, test, and iterate tools to enable .
