@@ -10,4 +10,4 @@
 - [ ] Process April 2022 Mid-month update from Cardano 360 in Descript.
 - [ ] Upload finished transcript for April 2022 Mid-month update from Cardano 360.
 - [x] Widen scope of the project to include all of the materials that will eventually be uploaded to the Essential Cardano website.
-- [ ] Rename Repository from "Cardano 360 Wiki" to "Essential Cardano Wiki".
+- [x] Rename Repository from "Cardano 360 Wiki" to "Essential Cardano Wiki".
