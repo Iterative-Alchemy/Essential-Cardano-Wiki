@@ -6,3 +6,4 @@
 - [ ] Mock up basic developer document.
 - [ ] Mock up basic slide deck.
 - [ ] Mock up basic proposal template for recruiting developer engagement.
+- [x] Begin testing Foam functionality and capabilities in private Founder's Journal.
