@@ -7,3 +7,5 @@
 - [ ] Mock up basic slide deck.
 - [ ] Mock up basic proposal template for recruiting developer engagement.
 - [x] Begin testing Foam functionality and capabilities in private Founder's Journal.
+- [ ] Process April 2022 Mid-month update from Cardano 360.
+- [ ] Upload finished transcript for April 2022 Mid-month update from Cardano 360.
